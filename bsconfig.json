@@ -1,0 +1,9 @@
+{
+  "projectName": "bluescript-gpio-esp32",
+  "version": "1.0.0",
+  "vmVersion": "1.1.4",
+  "deviceName": "BLUESCRIPT",
+  "dependencies": {},
+  "boardName": "esp32",
+  "espIdfComponents": []
+}
