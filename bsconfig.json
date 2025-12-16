@@ -1,5 +1,5 @@
 {
-  "projectName": "bluescript-gpio-esp32",
+  "projectName": "gpio",
   "version": "1.0.0",
   "vmVersion": "1.1.4",
   "deviceName": "BLUESCRIPT",
