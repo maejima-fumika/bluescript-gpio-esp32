@@ -1,1 +1,4 @@
-print('Hello world!')
+function test() {
+    print("Hello, I am GPIO library.");
+}
+
